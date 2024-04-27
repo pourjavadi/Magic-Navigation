@@ -2,6 +2,8 @@
 
 ## Project Description
 
+![image](https://github.com/pourjavadi/Magic-Navigation/assets/116521724/5a2bcdc1-adba-49e4-b5b5-e388cf14499e)
+
 
 Magic Navigation is a dynamic navigation menu system designed to enhance the user interface of web applications. Utilizing cutting-edge JavaScript and CSS techniques, it offers a responsive and interactive navigation experience for modern websites.
 
